@@ -1,4 +1,4 @@
-# Three.js Practice
+# Three.js Exercise
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
